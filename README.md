@@ -1,7 +1,8 @@
 ## Screenshots
 
 ### Screen 1
-![Screen 1](screenshots/screen1.jpg)
+![UI 1](screenshots/ui1.jpg)
 
 ### Screen 2
-![Screen 2](screenshots/screen2.jpg)
+![UI 2](screenshots/ui2.jpg)
+
